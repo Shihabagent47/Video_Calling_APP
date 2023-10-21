@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951982847349",
+    "project_id": "webrtc-c556b",
+    "storage_bucket": "webrtc-c556b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951982847349:android:8ff94fc92f2064e5fe0f3c",
+        "android_client_info": {
+          "package_name": "com.shihab.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgTdFlW0hkXRrpcKg9Xc0o1cSr7ZyMlrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951982847349:android:0c10225f7b04514efe0f3c",
+        "android_client_info": {
+          "package_name": "com.shihab.webrtc_tutorial.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgTdFlW0hkXRrpcKg9Xc0o1cSr7ZyMlrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
